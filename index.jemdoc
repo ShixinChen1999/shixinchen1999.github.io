@@ -54,7 +54,7 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 (\* represents equal contribution)
 
 *Conference Paper*
-- \[C5\] *Shixin Chen*, Hengyuan Zhang, Zichao Ling, Jianwang Zhai, Bei Yu, “CHASE: A CHiplet Architecture Simulation and Exploration Framework with Decoupled Multi-Fidelity Optimization”, ACM International Symposium on Physical Design (*ISPD*), Bonn, Germany, Mar. 15–18, 2026. 
+- \[C5\] *Shixin Chen*, Hengyuan Zhang, Jianwang Zhai, Bei Yu, “CHASE: A CHiplet Architecture Simulation and Exploration Framework with Decoupled Multi-Fidelity Optimization”, ACM International Symposium on Physical Design (*ISPD*), Bonn, Germany, Mar. 15–18, 2026. 
 - \[C4\] *Shixin Chen*\*, Peng Xu\*, Yapeng Li, Tinghuan Chen, Bei Yu, “IP-Matcher: An Efficient One-to-Many Matching Framework for Analog Circuit Design and Reusing” in IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (*DATE*), Verona, Italy, Apr. 20-22,2026.
 - \[C3\] *Shixin Chen*, Hengyuan Zhang, Zichao Ling, Jianwang Zhai, Bei Yu, “[https://dl.acm.org/doi/abs/10.1145/3658617.3703134 The Survey of 2.5D Integrated Architecture: An EDA perspective]”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASP-DAC*), Japan, Jan. 21–23, 2025. (*Invited Paper*)
 - \[C2\] Mingjun Li\*, Pengjia Li\*, Shuo Yin, *Shixin Chen*, Beichen Li, Chong Tong, Jianlei Yang, Tinghuan Chen, Bei Yu, “[https://dl.acm.org/doi/10.1145/3649329.3657392  WinoGen: A Highly Configurable Winograd Convolution IP Generator for Efficient CNN Acceleration on FPGA]”, ACM/IEEE Design Automation Conference (*DAC*), 2024.
