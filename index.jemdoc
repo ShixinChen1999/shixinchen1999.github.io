@@ -127,9 +127,9 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 == Tools
 - [https://salary-management-swart.vercel.app/ Personal Finance Management Tool]
   - A comprehensive finance management tool 
-  - Features: salary calculation, expense tracking, budget management, and asset analysis
-  - Supports multiple currencies with automatic exchange rate fetching
-  - All data stored locally in browser localStorage, no backend required
+ # - Features: salary calculation, expense tracking, budget management, and asset analysis
+ # - Supports multiple currencies with automatic exchange rate fetching
+ # - All data stored locally in browser localStorage, no backend required
 
 #== Presentation
 #- A Brief Introduction to Chisel ([http://sxchen.cn/resource/slides/Chisel-intro.pdf slides])
