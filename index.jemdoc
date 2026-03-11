@@ -124,6 +124,13 @@ under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since F
 - CSCI3420, 2023-Spring, [http://www.cse.cuhk.edu.hk/~byu/CENG3420/2023Spring/index.html Computer Organiztaion and Design]
 - CSCI3420, 2024-Spring, [http://www.cse.cuhk.edu.hk/~byu/CENG3420/2024Spring/index.html Computer Organiztaion and Design]
 
+== Tools
+- [https://salary-management-swart.vercel.app/ Personal Finance Management Tool]
+  - A comprehensive finance management tool 
+  - Features: salary calculation, expense tracking, budget management, and asset analysis
+  - Supports multiple currencies with automatic exchange rate fetching
+  - All data stored locally in browser localStorage, no backend required
+
 #== Presentation
 #- A Brief Introduction to Chisel ([http://sxchen.cn/resource/slides/Chisel-intro.pdf slides])
 #- A Brief Introduction to Gemmini ([http://sxchen.cn/resource/slides/Intro_to_Gemmini.pdf slides])
